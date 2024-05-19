@@ -6,6 +6,11 @@ O sistema permite que o usuário insira questões na base de dados para a automa
 
 ## Screenshots
 ![Autoav home](https://i.imgur.com/hl2KD7a.png)
+![Autoav formulário](https://i.imgur.com/l7mWXku.png)
+![Autoav prova](https://i.imgur.com/ZdCzNjx.png)
+![Autoav formulário](https://i.imgur.com/ZcoGcRo.png)
+![Autoav mensagem](https://i.imgur.com/o3odL4J.png)
+![Autoav PDF](https://i.imgur.com/Z4RYUl1.png)
 
 ## Funcionalidades
 * Inserir disciplinas, assuntos e questões
