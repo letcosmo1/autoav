@@ -16,7 +16,11 @@ O sistema permite que o usuário insira questões na base de dados para a automa
 * Inserir disciplinas, assuntos e questões
 * Visualizar avaliação gerada
 * Controlar questões da avaliação gerada
-* Exportar avaliação em PDF e Word. 
+* Exportar avaliação em PDF e Word.
+
+## Esquema do Banco de Dados
+
+![Esquema do banco de dados](https://i.imgur.com/lHPq6gK.png)
 
 ## Tecnologias usadas
 * Java
