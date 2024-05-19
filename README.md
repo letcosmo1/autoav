@@ -5,7 +5,7 @@ Projeto de pontuação extra na disciplica de Lógica de Programação Orientada
 O sistema permite que o usuário insira questões na base de dados para a automação da criação de avaliações de multipla escolha.
 
 ## Screenshots
-[Autoav home](https://i.imgur.com/hl2KD7a.png)
+![Autoav home](https://i.imgur.com/hl2KD7a.png)
 
 ## Funcionalidades
 * Inserir disciplinas, assuntos e questões
